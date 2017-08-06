@@ -1,0 +1,201 @@
+{
+    "shopping-items": [
+        {
+
+            "id": 1,
+            "name": "Fidget Fun",
+            "price": 5.99,
+            "description": "Cure the fidgets with these clever little gadgets",
+            "published": "11/11/2017",
+            "image": "http://lorempixel.com/400/200/"
+
+        },
+        {
+            "id": 2,
+            "name": "Kicker Picnic Snowboard 145cm",
+            "price": 119.00,
+            "description": "Kicker Picnic Snowboard 145cm",
+            "published": "6/28/2017",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 3,
+            "name": "Snowboard and Bindings Combo",
+            "price": 600,
+            "description": "Snowboard-and-Bindings-Combo-2017-Arbor-Foundation-and-2017-Union-Flite-Pro",
+            "published": "9/2/2000",
+            "image": "http://lorempixel.com/400/200/"
+        }
+        ,
+        {
+            "id": 4,
+            "name": "Kicker Shredder Snowboard",
+            "price": 119,
+            "description": "Kicker Picnic Snowboard 145cm",
+            "published": "5/5/2007",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 5,
+            "name": "Burton Custom Twin Flying-V 2017",
+            "price": 545.99,
+            "description": "Burton Custom Twin Flying-V 2017",
+            "published": "12/23/2014",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 6,
+            "name": "Yes PYL Snowboard",
+            "price": 929.99,
+            "description": "Yes PYL Snowboard | 2018",
+            "published": "9/29/2016",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 7,
+            "name": "Nitro Goodtimes Snowboard",
+            "price": 419.99,
+            "description": "Nitro Goodtimes Snowboard | 2017",
+            "published": "12/14/2013",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 8,
+            "name": "Jones Ultra Mountain Twin Snowboard",
+            "price": 749.99,
+            "description": "Jones Ultra Mountain Twin Snowboard | 2017 | Base Colours Vary",
+            "published": "7/3/2014",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 9,
+            "name": "Nitro Diablo Snowboard",
+            "price": 569.99,
+            "description": "Nitro Diablo Snowboard 158.6cm | 2017",
+            "published": "5/2/2014",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 10,
+            "name": "Mens Snowboard M3",
+            "price": 649.99,
+            "description": "Mens Snowboard M3 Discord 157cm & Pivot Bindings Complete *New Setup*",
+            "published": "8/22/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 11,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 12,
+            "name": "2017 Flow Viper Snowboard",
+            "price": 315.00,
+            "description": "2017 Flow Viper Snowboard 155 cm - Steve's Snow Store",
+            "published": "9/29/2016",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 13,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 14,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 15,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 16,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 17,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 18,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 19,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 20,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 21,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 22,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 23,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "9/1/1984",
+            "image": "http://lorempixel.com/400/200/"
+        },
+        {
+            "id": 24,
+            "name": "Jones Mountain Twin Snowboard",
+            "price": 119.00,
+            "description": "Jones Mountain Twin Snowboard | 2017",
+            "published": "4/29/2017",
+            "image": "http://lorempixel.com/400/200/"
+        }
+
+
+  ]
+}

@@ -1,0 +1,37 @@
+.product-item {
+	position: relative;
+}
+
+.product-new {
+	right: 7px;
+    font-style: italic;
+    display: block;
+    top: 0px;
+    position: absolute;
+    position: 0px 0px;
+    color: #a94442;
+    padding-right: 0px;
+    
+    font-weight: bold;
+}
+
+.product-item {
+	margin-top: 20px;
+	padding: 20px;
+}
+
+.product-description {
+	max-height: 40px;
+	overflow: hidden;
+	display: block;
+	min-height: 40px;
+}
+
+.product-title {
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.product-price {
+	font-weight: bold;
+}

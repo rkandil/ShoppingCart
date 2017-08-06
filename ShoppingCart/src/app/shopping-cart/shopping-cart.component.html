@@ -1,0 +1,15 @@
+<h1 class="jumbotron">Welcome to shopping cart!</h1>
+<div class="row">
+	<div class="col-xs-4">
+<app-search [shoppingService]="shoppingService"></app-search>
+</div>
+<div class="col-xs-3 col-xs-offset-5 text-right">
+<a routerLink="checkout"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> {{shoppingService.cartCount}}</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<router-outlet></router-outlet>
+</div>
+</div>
+

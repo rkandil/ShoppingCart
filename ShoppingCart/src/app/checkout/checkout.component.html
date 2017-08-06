@@ -1,0 +1,25 @@
+
+	<div class="row">
+		<div class="col-xs-3"><span class="table-heading">Name:</span></div>
+		<div class="col-xs-3"><span class="table-heading">Quantity:</span></div>
+		<div class="col-xs-3"><span class="table-heading">Price:</span></div>
+		<div class="col-xs-3"><span class="table-heading">Total</span></div>
+	</div>
+	
+	<div *ngFor="let cartItem of selectedProducts" class="row">
+			<div class="col-xs-3">{{cartItem.name}}</div>
+		<div class="col-xs-3">{{cartItem.quantity}}</div>
+		<div class="col-xs-3">{{cartItem.price | dollar}}</div>
+		<div class="col-xs-3">{{cartItem.quantity * cartItem.price | dollar}}</div>
+
+	
+	</div>
+	<div class="row">
+	<div class="col-xs-12 text-right">
+		<span class="table-heading">Total: </span>{{total | dollar}}
+	</div>
+	</div>
+	
+	<app-checkout-form></app-checkout-form>
+
+

@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.normal {
+	background: #f1f1f1;
+}
+
+.hover {
+	background: #d6d6da;
+}
+
+.table-heading {
+	font-weight: bold;
+}
+
+fieldset {
+	margin-top: 20px;
+}
+
+form-control.ng-invalid.ng-touched {
+	border: 1px solid #a94442;
+}
+
+.error {
+	color: #a94442;
+}
